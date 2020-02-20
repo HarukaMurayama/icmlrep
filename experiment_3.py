@@ -34,7 +34,7 @@ D=10
 
 
 
-file_path='../house_price_data/train.csv'
+file_path='./train.csv'
 
 
 feature_names_u = ["TotRmsAbvGrd", "YearBuilt"]
